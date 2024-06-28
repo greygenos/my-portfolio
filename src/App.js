@@ -34,7 +34,7 @@ function App() {
             <div className="portfolio-item">
               <a href="https://example.com/project3" target="_blank" rel="noopener noreferrer">
                 <img src="https://via.placeholder.com/150" alt="Project 3 Thumbnail" />
-                <p>Project 3</p>
+                <p>Project 35</p>
               </a>
             </div>
           </div>
