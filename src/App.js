@@ -50,8 +50,8 @@ function App() {
         <p>Connect with me on social media!</p>
         <div className="social">
           <a href="https://twitter.com/your-twitter-username" target="_blank" rel="noopener noreferrer">Twitter</a> |
-          <a href="https://linkedin.com/in/your-linkedin-username" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-          <a href="https://github.com/your-github-username" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://www.linkedin.com/in/reygenosa1/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+          <a href="https://github.com/greygenos" target="_blank" rel="noopener noreferrer">GitHub</a>
         </div>
         <p>&copy; 2024 Rey. All rights reserved.</p>
       </footer>
