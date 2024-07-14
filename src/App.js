@@ -28,7 +28,7 @@ function App() {
             <div className="portfolio-item">
               <a href="https://example.com/project2" target="_blank" rel="noopener noreferrer">
                 <img src="https://via.placeholder.com/150" alt="Project 2 Thumbnail" />
-                <p>Project 2</p>
+                <p>Project 29</p>
               </a>
             </div>
             <div className="portfolio-item">
